@@ -5,8 +5,13 @@ body {
     text-align: center;
 }
 
-header {
-    background: #007bff;
+header img {
+     width: 120px;  /* Adjust size */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the logo */
+}
+  background: #007bff;
     color: white;
     padding: 15px;
 }
